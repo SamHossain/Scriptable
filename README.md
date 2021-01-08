@@ -1,6 +1,6 @@
 # Scriptable
 ## iTermWidget
-This widget was primarily written by @yaylinda, and tailored to my need. https://github.com/yaylinda/scriptable</br> Stock data is from the yahooFinance API and modified from @giuliomagnifico. https://gist.github.com/giuliomagnifico </br>Currently, widget displays:
+This widget was originally written by @yaylinda, and tailored to my needs. https://github.com/yaylinda/scriptable</br> Stock data is from the yahooFinance API and modified from @giuliomagnifico. https://gist.github.com/giuliomagnifico </br>Currently, widget displays:
 * work calendar 
 * personal calendar 
 * Weather 
