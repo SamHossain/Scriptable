@@ -7,4 +7,6 @@ This widget was originally written by @yaylinda, and tailored to my needs. https
 * Stock ticker 
 * Phone info
 ![alt text](https://github.com/SamHossain/Scriptable/blob/main/iTerm.jpg?raw=true){:height="50%" width="50%"}
+## Cache
+Required for iTermWidget. Copied from @evandcoleman. https://github.com/evandcoleman/scriptable
 
