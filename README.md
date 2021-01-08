@@ -6,7 +6,8 @@ This widget was originally written by @yaylinda, and tailored to my needs. https
 * Weather 
 * Stock ticker 
 * Phone info
-![alt text](https://github.com/SamHossain/Scriptable/blob/main/iTerm.jpg?raw=true){:height="50%" width="50%"}
+![alt text](https://github.com/SamHossain/Scriptable/blob/main/iTerm.jpg?raw=true){:height="50%" width="50%"} </br>
+Usage: Copy iTermWidget.js and Cache.js into Scriptable folder: iCloud/Scriptable.
 ## Cache
 Required for iTermWidget. Copied from @evandcoleman. https://github.com/evandcoleman/scriptable
 
