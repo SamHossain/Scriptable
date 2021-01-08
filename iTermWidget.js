@@ -101,7 +101,7 @@ function createWidget(data) {
   lastLoginLine.font = new Font(FONT_NAME, FONT_SIZE);
 
   // Line 1 - Input
-  const inputLine = stack.addText(`iPhone:~ ${NAME}$ info`);
+  const inputLine = stack.addText(`${Device.isPhone() ? 'iPhone' : 'iPad'}:~ ${NAME}$ info`);
   inputLine.textColor = Color.white();
   inputLine.font = new Font(FONT_NAME, FONT_SIZE);
 
